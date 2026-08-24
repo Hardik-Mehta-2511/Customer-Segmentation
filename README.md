@@ -48,11 +48,3 @@ Final Customer-Level Dataset
 
 ---
 
-## Usage
-
-1. Place your customer dataset in the project root.
-2. Run the script:
-   ```bash
-   python main.py
-   ```
-3. Review the notebook in the `notebooks/` folder and the generated `README.md`.
